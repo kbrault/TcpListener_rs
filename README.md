@@ -5,7 +5,6 @@ The listener accepts incoming connections on a specified port and echoes back an
 
 ## Usage
 ```
-cargo build
-cargo run --bin tcp_listener
+cargo run 
 nc localhost 7878
 ```
